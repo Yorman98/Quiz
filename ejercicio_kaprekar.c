@@ -4,7 +4,7 @@
 
 
 int main() {
- int n,u,d,c,um,u2,d2,c2,um2,total,total2,total3,kaprekar,NV,salida,n2;
+ int n,u,d,c,um,u2,d2,c2,um2,total,total2,kaprekar,NV,salida,n2;
  char ini;
 
 
